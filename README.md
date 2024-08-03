@@ -1,5 +1,12 @@
 checkout-->https://gemini-clone-tavish-anades-projects.vercel.app/
 
+Preview-->
+
+
+
+https://github.com/user-attachments/assets/d97f7d8c-731b-40fe-bd8b-9041f3630bde
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
